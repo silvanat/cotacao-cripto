@@ -30,7 +30,7 @@ const items = [
   {
     title: "GitHub",
     icon: `mdi-github`,
-    href: "https://github.com/silvanaty/cotacao-cripto",
+    href: "https://github.com/silvanat/cotacao-cripto",
   },
 ];
 </script>
